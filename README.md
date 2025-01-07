@@ -42,8 +42,11 @@ University: KLE TECHNOLOGICAL UNIVERSITY
 Topic: Smart Networking System
 
 🎨 What Drives Me
+
 💻 Constantly exploring new technologies and applying them creatively.
+
 🤝 Helping others grow while improving myself every day.
+
 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.
 
 This portfolio showcases my commitment to pushing boundaries and creatin
