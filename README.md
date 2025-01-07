@@ -13,8 +13,9 @@ Technical Stack:
 Languages: C++, Java
 Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
-Impact:
 
+
+Impact:
 Smart networking systems revolutionize connectivity by enhancing efficiency, scalability, and security in modern networks. They reduce operational costs through automation and virtualization, enabling real-time traffic management and predictive maintenance. By integrating AI and IoT, these systems optimize resource allocation, improve user experiences, and support large-scale device ecosystems. Edge computing minimizes latency, ensuring faster data processing and better performance. Additionally, smart networks bolster cybersecurity with advanced anomaly detection and adaptive threat responses. Overall, they empower industries with reliable, future-ready infrastructure, driving innovation, seamless communication, and digital transformation across various sectors.
 
 🚀 Skills
@@ -23,12 +24,14 @@ Strong grasp of Data Structures and Algorithms.
 Expertise in problem-solving through advanced DAA techniques.
 Experience with project development and team collaboration.
 🌐 Find Me Online
-[GitHub][https://poojabiradar123.github.io/portfolio.github.io/]
-[LinkedIn]
+[GitHub]https://poojabiradar123.github.io/portfolio.github.i/
+
 Portfolio Highlights
+
 🎯 Topic:
 DAA (Design and Analysis of Algorithms)
 Focus: Algorithmic Problem Solving for Pollution cities
+
 📋 Details:
 Course Name: Algorithms Lab
 Course Code: 24ECAP202
@@ -42,4 +45,5 @@ Topic: Smart Networking System
 💻 Constantly exploring new technologies and applying them creatively.
 🤝 Helping others grow while improving myself every day.
 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.
+
 This portfolio showcases my commitment to pushing boundaries and creatin
